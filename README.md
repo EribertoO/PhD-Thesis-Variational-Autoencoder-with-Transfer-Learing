@@ -1,4 +1,4 @@
-# PhD-Thesis-Varional-Autoencoder-with-Transfer-Learing
+# PhD Thesis: Variotional Autoencoder with Transfer Learing
 
 This is the development code for the doctoral thesis
 
