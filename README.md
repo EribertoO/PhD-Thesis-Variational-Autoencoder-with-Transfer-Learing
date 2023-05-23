@@ -1,4 +1,4 @@
-# PhD Thesis: Variotional Autoencoder with Transfer Learing
+# PhD Thesis: Variotional Autoencoder with Transfer Learning
 
 This is the development code repo for the my doctoral thesis entitled:
 
